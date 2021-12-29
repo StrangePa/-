@@ -1523,11 +1523,6 @@ img {
     height: 48px;
   }
 
-  .nav__burger {
-    display: block;
-    visibility: visible;
-  }
-
   .nav-list {
     width: 300px;
   }
@@ -1794,11 +1789,6 @@ img {
   .nav__logo {
     width: 110px;
     height: 35px;
-  }
-
-  .nav__burger {
-    display: block;
-    visibility: visible;
   }
 
   .nav-list {
